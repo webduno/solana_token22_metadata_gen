@@ -1,0 +1,6 @@
+{
+    "name": "Test Token AOM",
+    "symbol": "AOM",
+    "description": "Test Coin Description for AOM",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}
