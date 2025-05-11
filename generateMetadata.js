@@ -34,15 +34,39 @@ function generateMetadata(symbol) {
 // Function to find the highest symbol in the gen directory
 function findLastSymbol(genDir) {
     if (!fs.existsSync(genDir)) return null;
-    const files = fs.readdirSync(genDir);
-    const symbols = files
-        .map(f => {
-            const match = f.match(/^metadata_([A-Z]{3})\.json$/);
-            return match ? match[1] : null;
-        })
-        .filter(Boolean)
-        .sort();
-    return symbols.length > 0 ? symbols[symbols.length - 1] : null;
+    
+    let highestSymbol = null;
+    
+    // Check all subdirectories
+    const subDirs = fs.readdirSync(genDir)
+        .filter(f => fs.statSync(path.join(genDir, f)).isDirectory());
+    
+    for (const subDir of subDirs) {
+        const files = fs.readdirSync(path.join(genDir, subDir));
+        const symbols = files
+            .map(f => {
+                const match = f.match(/^metadata_([A-Z]{3})\.json$/);
+                return match ? match[1] : null;
+            })
+            .filter(Boolean)
+            .sort();
+            
+        if (symbols.length > 0) {
+            const lastSymbol = symbols[symbols.length - 1];
+            if (!highestSymbol || lastSymbol > highestSymbol) {
+                highestSymbol = lastSymbol;
+            }
+        }
+    }
+    
+    return highestSymbol;
+}
+
+// Function to ensure directory exists
+function ensureDir(dirPath) {
+    if (!fs.existsSync(dirPath)) {
+        fs.mkdirSync(dirPath, { recursive: true });
+    }
 }
 
 // Function to generate multiple metadata files
@@ -50,24 +74,28 @@ function generateMetadataFiles(count = 100) {
     const genDir = path.join(__dirname, 'gen');
     
     // Ensure gen directory exists
-    if (!fs.existsSync(genDir)) {
-        fs.mkdirSync(genDir);
-    }
+    ensureDir(genDir);
     
     const lastSymbol = findLastSymbol(genDir);
     let currentSymbol = lastSymbol ? getNextSymbol(lastSymbol) : 'AAA';
     
     for (let i = 0; i < count; i++) {
         const metadata = generateMetadata(currentSymbol);
+        const firstLetter = currentSymbol[0];
+        const subDir = path.join(genDir, firstLetter);
+        
+        // Ensure subdirectory exists
+        ensureDir(subDir);
+        
         const fileName = `metadata_${currentSymbol}.json`;
-        const filePath = path.join(genDir, fileName);
+        const filePath = path.join(subDir, fileName);
         
         fs.writeFileSync(
             filePath,
             JSON.stringify(metadata, null, 4)
         );
         
-        console.log(`Generated ${fileName}`);
+        console.log(`Generated ${firstLetter}/${fileName}`);
         currentSymbol = getNextSymbol(currentSymbol);
     }
 }

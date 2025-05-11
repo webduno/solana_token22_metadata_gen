@@ -1,0 +1,6 @@
+{
+    "name": "Test Token APM",
+    "symbol": "APM",
+    "description": "Test Coin Description for APM",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

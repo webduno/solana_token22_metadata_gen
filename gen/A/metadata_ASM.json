@@ -1,0 +1,6 @@
+{
+    "name": "Test Token ASM",
+    "symbol": "ASM",
+    "description": "Test Coin Description for ASM",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

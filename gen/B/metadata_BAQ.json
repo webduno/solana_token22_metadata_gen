@@ -1,0 +1,6 @@
+{
+    "name": "Test Token BAQ",
+    "symbol": "BAQ",
+    "description": "Test Coin Description for BAQ",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

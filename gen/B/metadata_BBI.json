@@ -1,0 +1,6 @@
+{
+    "name": "Test Token BBI",
+    "symbol": "BBI",
+    "description": "Test Coin Description for BBI",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}
