@@ -1,0 +1,6 @@
+{
+    "name": "Test Token ZKI",
+    "symbol": "ZKI",
+    "description": "Test Coin Description for ZKI",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

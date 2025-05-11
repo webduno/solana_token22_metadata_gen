@@ -1,0 +1,6 @@
+{
+    "name": "Test Token ZVR",
+    "symbol": "ZVR",
+    "description": "Test Coin Description for ZVR",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

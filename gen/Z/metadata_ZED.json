@@ -1,0 +1,6 @@
+{
+    "name": "Test Token ZED",
+    "symbol": "ZED",
+    "description": "Test Coin Description for ZED",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}
