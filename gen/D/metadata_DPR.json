@@ -1,0 +1,6 @@
+{
+    "name": "Test Token DPR",
+    "symbol": "DPR",
+    "description": "Test Coin Description for DPR",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

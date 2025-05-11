@@ -1,0 +1,6 @@
+{
+    "name": "Test Token EXA",
+    "symbol": "EXA",
+    "description": "Test Coin Description for EXA",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Test Token CRX",
+    "symbol": "CRX",
+    "description": "Test Coin Description for CRX",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

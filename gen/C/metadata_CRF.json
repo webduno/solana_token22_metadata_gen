@@ -1,0 +1,6 @@
+{
+    "name": "Test Token CRF",
+    "symbol": "CRF",
+    "description": "Test Coin Description for CRF",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

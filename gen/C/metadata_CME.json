@@ -1,0 +1,6 @@
+{
+    "name": "Test Token CME",
+    "symbol": "CME",
+    "description": "Test Coin Description for CME",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

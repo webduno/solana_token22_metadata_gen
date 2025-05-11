@@ -1,0 +1,6 @@
+{
+    "name": "Test Token CES",
+    "symbol": "CES",
+    "description": "Test Coin Description for CES",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

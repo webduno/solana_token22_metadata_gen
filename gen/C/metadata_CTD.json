@@ -1,0 +1,6 @@
+{
+    "name": "Test Token CTD",
+    "symbol": "CTD",
+    "description": "Test Coin Description for CTD",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Test Token DHV",
+    "symbol": "DHV",
+    "description": "Test Coin Description for DHV",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Test Token DTN",
+    "symbol": "DTN",
+    "description": "Test Coin Description for DTN",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

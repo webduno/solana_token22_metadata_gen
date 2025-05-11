@@ -70,7 +70,7 @@ function ensureDir(dirPath) {
 }
 
 // Function to generate multiple metadata files
-function generateMetadataFiles(count = 100) {
+function generateMetadataFiles(count = 1000) {
     const genDir = path.join(__dirname, 'gen');
     
     // Ensure gen directory exists

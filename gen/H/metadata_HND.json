@@ -1,0 +1,6 @@
+{
+    "name": "Test Token HND",
+    "symbol": "HND",
+    "description": "Test Coin Description for HND",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

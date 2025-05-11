@@ -1,0 +1,6 @@
+{
+    "name": "Test Token FPY",
+    "symbol": "FPY",
+    "description": "Test Coin Description for FPY",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

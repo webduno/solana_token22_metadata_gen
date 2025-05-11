@@ -1,0 +1,6 @@
+{
+    "name": "Test Token DAB",
+    "symbol": "DAB",
+    "description": "Test Coin Description for DAB",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

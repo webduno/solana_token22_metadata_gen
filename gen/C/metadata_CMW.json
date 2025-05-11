@@ -1,0 +1,6 @@
+{
+    "name": "Test Token CMW",
+    "symbol": "CMW",
+    "description": "Test Coin Description for CMW",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

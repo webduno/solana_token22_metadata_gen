@@ -1,0 +1,6 @@
+{
+    "name": "Test Token CRO",
+    "symbol": "CRO",
+    "description": "Test Coin Description for CRO",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

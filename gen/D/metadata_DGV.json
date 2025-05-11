@@ -1,0 +1,6 @@
+{
+    "name": "Test Token DGV",
+    "symbol": "DGV",
+    "description": "Test Coin Description for DGV",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Test Token EKB",
+    "symbol": "EKB",
+    "description": "Test Coin Description for EKB",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

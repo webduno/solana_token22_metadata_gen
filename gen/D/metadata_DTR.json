@@ -1,0 +1,6 @@
+{
+    "name": "Test Token DTR",
+    "symbol": "DTR",
+    "description": "Test Coin Description for DTR",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}
