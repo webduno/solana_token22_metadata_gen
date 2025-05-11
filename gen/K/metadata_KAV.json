@@ -1,0 +1,6 @@
+{
+    "name": "Test Token KAV",
+    "symbol": "KAV",
+    "description": "Test Coin Description for KAV",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

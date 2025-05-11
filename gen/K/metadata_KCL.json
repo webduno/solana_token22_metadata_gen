@@ -1,0 +1,6 @@
+{
+    "name": "Test Token KCL",
+    "symbol": "KCL",
+    "description": "Test Coin Description for KCL",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

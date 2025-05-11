@@ -1,0 +1,6 @@
+{
+    "name": "Test Token XIC",
+    "symbol": "XIC",
+    "description": "Test Coin Description for XIC",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

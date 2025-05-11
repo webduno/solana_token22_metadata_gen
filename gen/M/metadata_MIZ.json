@@ -1,0 +1,6 @@
+{
+    "name": "Test Token MIZ",
+    "symbol": "MIZ",
+    "description": "Test Coin Description for MIZ",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

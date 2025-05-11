@@ -1,0 +1,6 @@
+{
+    "name": "Test Token NBF",
+    "symbol": "NBF",
+    "description": "Test Coin Description for NBF",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

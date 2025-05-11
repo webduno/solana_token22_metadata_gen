@@ -1,0 +1,6 @@
+{
+    "name": "Test Token XPN",
+    "symbol": "XPN",
+    "description": "Test Coin Description for XPN",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

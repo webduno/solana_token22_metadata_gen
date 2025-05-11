@@ -80,21 +80,31 @@ function generateMetadataFiles(count = 1000) {
     let currentSymbol = lastSymbol ? getNextSymbol(lastSymbol) : 'AAA';
     
     for (let i = 0; i < count; i++) {
+        if (currentSymbol === 'ZZZ') {
+            const metadata = generateMetadata(currentSymbol);
+            const firstLetter = currentSymbol[0];
+            const subDir = path.join(genDir, firstLetter);
+            ensureDir(subDir);
+            const fileName = `metadata_${currentSymbol}.json`;
+            const filePath = path.join(subDir, fileName);
+            fs.writeFileSync(
+                filePath,
+                JSON.stringify(metadata, null, 4)
+            );
+            console.log(`Generated ${firstLetter}/${fileName}`);
+            return; // Stop if ZZZ is reached
+        }
         const metadata = generateMetadata(currentSymbol);
         const firstLetter = currentSymbol[0];
         const subDir = path.join(genDir, firstLetter);
-        
         // Ensure subdirectory exists
         ensureDir(subDir);
-        
         const fileName = `metadata_${currentSymbol}.json`;
         const filePath = path.join(subDir, fileName);
-        
         fs.writeFileSync(
             filePath,
             JSON.stringify(metadata, null, 4)
         );
-        
         console.log(`Generated ${firstLetter}/${fileName}`);
         currentSymbol = getNextSymbol(currentSymbol);
     }

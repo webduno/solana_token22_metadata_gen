@@ -1,0 +1,6 @@
+{
+    "name": "Test Token JVE",
+    "symbol": "JVE",
+    "description": "Test Coin Description for JVE",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

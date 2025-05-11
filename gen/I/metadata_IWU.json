@@ -1,0 +1,6 @@
+{
+    "name": "Test Token IWU",
+    "symbol": "IWU",
+    "description": "Test Coin Description for IWU",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

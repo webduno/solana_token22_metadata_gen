@@ -1,0 +1,6 @@
+{
+    "name": "Test Token PNT",
+    "symbol": "PNT",
+    "description": "Test Coin Description for PNT",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

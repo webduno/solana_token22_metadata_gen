@@ -1,0 +1,6 @@
+{
+    "name": "Test Token UDM",
+    "symbol": "UDM",
+    "description": "Test Coin Description for UDM",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

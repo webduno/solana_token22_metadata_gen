@@ -1,0 +1,6 @@
+{
+    "name": "Test Token NGD",
+    "symbol": "NGD",
+    "description": "Test Coin Description for NGD",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Test Token KLD",
+    "symbol": "KLD",
+    "description": "Test Coin Description for KLD",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

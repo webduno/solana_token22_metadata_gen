@@ -1,0 +1,6 @@
+{
+    "name": "Test Token KBS",
+    "symbol": "KBS",
+    "description": "Test Coin Description for KBS",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

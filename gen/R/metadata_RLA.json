@@ -1,0 +1,6 @@
+{
+    "name": "Test Token RLA",
+    "symbol": "RLA",
+    "description": "Test Coin Description for RLA",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Test Token QRK",
+    "symbol": "QRK",
+    "description": "Test Coin Description for QRK",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

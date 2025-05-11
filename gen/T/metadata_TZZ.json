@@ -1,0 +1,6 @@
+{
+    "name": "Test Token TZZ",
+    "symbol": "TZZ",
+    "description": "Test Coin Description for TZZ",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

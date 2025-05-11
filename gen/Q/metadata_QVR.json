@@ -1,0 +1,6 @@
+{
+    "name": "Test Token QVR",
+    "symbol": "QVR",
+    "description": "Test Coin Description for QVR",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

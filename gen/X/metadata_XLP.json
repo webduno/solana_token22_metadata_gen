@@ -1,0 +1,6 @@
+{
+    "name": "Test Token XLP",
+    "symbol": "XLP",
+    "description": "Test Coin Description for XLP",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

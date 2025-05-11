@@ -1,0 +1,6 @@
+{
+    "name": "Test Token PNP",
+    "symbol": "PNP",
+    "description": "Test Coin Description for PNP",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

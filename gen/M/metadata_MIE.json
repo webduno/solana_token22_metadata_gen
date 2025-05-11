@@ -1,0 +1,6 @@
+{
+    "name": "Test Token MIE",
+    "symbol": "MIE",
+    "description": "Test Coin Description for MIE",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}

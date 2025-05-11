@@ -1,0 +1,6 @@
+{
+    "name": "Test Token XES",
+    "symbol": "XES",
+    "description": "Test Coin Description for XES",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+}
