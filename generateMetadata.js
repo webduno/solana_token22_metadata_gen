@@ -27,7 +27,7 @@ function generateMetadata(symbol) {
         name: `${symbol} Coin`,
         symbol: symbol,
         description: `${symbol} is a token program on the Solana blockchain, defining a common implementation for fungible tokens`,
-        image: "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+        image: "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
     };
 }
 
@@ -70,7 +70,7 @@ function ensureDir(dirPath) {
 }
 
 // Function to generate multiple metadata files
-function generateMetadataFiles(count = 1000) {
+function generateMetadataFiles(count = 10000) {
     const genDir = path.join(__dirname, 'gen');
     
     // Ensure gen directory exists

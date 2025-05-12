@@ -1,8 +1,10 @@
 # Solana Token22 Metadata-Gen
 
+## How to make a token in the solana blockchain
 Create your own crypto currency from scratch for web3 using solana cli & metaplex
 
 ## Links:
+  - https://phantom.com/
   - https://docs.solanalabs.com/cli/install
   - https://docs.anza.xyz/cli/install/
   - https://spl.solana.com/token-2022
@@ -12,10 +14,11 @@ Create your own crypto currency from scratch for web3 using solana cli & metaple
 
 ```
   solana-keygen new --no-bip39-passphrase
+  cat C:\Users\Equipo\.config\solana\
 
   spl-token create-token --enable-metadata --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
 
-  spl-token initialize-metadata TOKEN_ADDRESS 'FUN coin' FUN https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/F/metadata_FUN.json
+  spl-token initialize-metadata TOKEN_ADDRESS "FUN coin" FUN https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/F/metadata_FUN.json
 
   spl-token create-account TOKEN_ADDRESS
 
