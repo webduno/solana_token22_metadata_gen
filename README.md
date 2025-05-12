@@ -12,12 +12,12 @@ Create your own crypto currency from scratch for web3 using solana cli & metaple
 ```
   solana-keygen new --no-bip39-passphrase
 
-  spl-token create-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
+  spl-token create-token --enable-metadata --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
 
-  ts-node token22.ts  
+  spl-token initialize-metadata tokenAddress name symbol url
 
   spl-token create-account token_address
-  
+
   spl-token mint token_address
 ```
 
