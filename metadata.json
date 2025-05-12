@@ -1,6 +1,6 @@
 {
-    "name": "Test Token New Custom Coin",
+    "name": "Token New Name",
     "symbol": "NEWCOIN",
     "description": "Test Coin Description",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://solana22.vercel.app/image.png"
   }

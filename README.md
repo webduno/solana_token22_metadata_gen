@@ -7,6 +7,7 @@ Create your own crypto currency from scratch for web3 using solana cli & metaple
   - https://phantom.com/
   - https://docs.solanalabs.com/cli/install
   - https://docs.anza.xyz/cli/install/
+  - https://github.com/webduno/solana_token22_metadata_gen
   - https://spl.solana.com/token-2022
   - https://fluxbeam.xyz/app/liquidity
 
@@ -18,11 +19,16 @@ Create your own crypto currency from scratch for web3 using solana cli & metaple
 
   spl-token create-token --enable-metadata --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
 
-  spl-token initialize-metadata TOKEN_ADDRESS "FUN coin" FUN https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/F/metadata_FUN.json
-
   spl-token create-account TOKEN_ADDRESS
 
+  spl-token initialize-metadata TOKEN_ADDRESS "FUN coin" FUN https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/F/metadata_FUN.json
+
   spl-token mint TOKEN_ADDRESS 10000  
+
+spl-token authorize TOKEN_ADDRESS  mint --disable
+
+spl-token authorize TOKEN_ADDRESS  freeze --disable
+
 ```
 
 ## Example Metadata Files:
