@@ -23,59 +23,35 @@ Create your own crypto currency from scratch for web3 using solana cli & metaple
 
 ## Example Metadata Files:
 
-### A
-- [ALL](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/A/metadata_ALL.json)
-- [AND](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/A/metadata_AND.json)
-- [ARE](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/A/metadata_ARE.json)
-- [ANY](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/A/metadata_ANY.json)
-- [ASK](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/A/metadata_ASK.json)
+- A
+  - [ALL](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/A/metadata_ALL.json), [AND](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/A/metadata_AND.json), [ARE](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/A/metadata_ARE.json), [ANY](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/A/metadata_ANY.json), [ASK](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/A/metadata_ASK.json)
 
-### C
-- [CAN](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/C/metadata_CAN.json)
-- [CAT](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/C/metadata_CAT.json)
-- [CUT](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/C/metadata_CUT.json)
+- C
+  - [CAN](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/C/metadata_CAN.json), [CAT](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/C/metadata_CAT.json), [CUT](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/C/metadata_CUT.json)
 
-### F
-- [FOR](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/F/metadata_FOR.json)
-- [FAR](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/F/metadata_FAR.json)
-- [FUN](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/F/metadata_FUN.json)
+- F
+  - [FOR](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/F/metadata_FOR.json), [FAR](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/F/metadata_FAR.json), [FUN](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/F/metadata_FUN.json)
 
-### H
-- [HAD](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/H/metadata_HAD.json)
-- [HAS](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/H/metadata_HAS.json)
-- [HER](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/H/metadata_HER.json)
-- [HIS](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/H/metadata_HIS.json)
-- [HOW](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/H/metadata_HOW.json)
+- H
+  - [HAD](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/H/metadata_HAD.json), [HAS](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/H/metadata_HAS.json), [HER](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/H/metadata_HER.json), [HIS](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/H/metadata_HIS.json), [HOW](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/H/metadata_HOW.json)
 
-### M
-- [MAN](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/M/metadata_MAN.json)
-- [MAP](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/M/metadata_MAP.json)
-- [MAY](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/M/metadata_MAY.json)
+- M
+  - [MAN](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/M/metadata_MAN.json), [MAP](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/M/metadata_MAP.json), [MAY](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/M/metadata_MAY.json)
 
-### O
-- [OUT](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/O/metadata_OUT.json)
-- [ONE](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/O/metadata_ONE.json)
-- [OUR](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/O/metadata_OUR.json)
+- O
+  - [OUT](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/O/metadata_OUT.json), [ONE](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/O/metadata_ONE.json), [OUR](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/O/metadata_OUR.json)
 
-### S
-- [SHE](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/S/metadata_SHE.json)
-- [SEE](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/S/metadata_SEE.json)
-- [SAY](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/S/metadata_SAY.json)
+- S
+  - [SHE](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/S/metadata_SHE.json), [SEE](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/S/metadata_SEE.json), [SAY](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/S/metadata_SAY.json)
 
-### T
-- [THE](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/T/metadata_THE.json)
-- [TWO](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/T/metadata_TWO.json)
-- [TRY](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/T/metadata_TRY.json)
+- T
+  - [THE](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/T/metadata_THE.json), [TWO](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/T/metadata_TWO.json), [TRY](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/T/metadata_TRY.json)
 
-### W
-- [WAS](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/W/metadata_WAS.json)
-- [WHO](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/W/metadata_WHO.json)
-- [WHY](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/W/metadata_WHY.json)
+- W
+  - [WAS](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/W/metadata_WAS.json), [WHO](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/W/metadata_WHO.json), [WHY](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/W/metadata_WHY.json)
 
-### Y
-- [YOU](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/Y/metadata_YOU.json)
-- [YES](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/Y/metadata_YES.json)
-- [YET](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/Y/metadata_YET.json)
+- Y
+  - [YOU](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/Y/metadata_YOU.json), [YES](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/Y/metadata_YES.json), [YET](https://raw.githubusercontent.com/webduno/solana_token22_metadata_gen/refs/heads/main/gen/Y/metadata_YET.json)
 
 ## Generated Folders:
   - Url Base: https://github.com/webduno/solana_token22_metadata_gen/tree/main/gen/
