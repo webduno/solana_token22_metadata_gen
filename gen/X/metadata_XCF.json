@@ -2,5 +2,5 @@
     "name": "Test Token XCF",
     "symbol": "XCF",
     "description": "Test Coin Description for XCF",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

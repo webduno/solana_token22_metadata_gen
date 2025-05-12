@@ -2,5 +2,5 @@
     "name": "Test Token MAE",
     "symbol": "MAE",
     "description": "Test Coin Description for MAE",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

@@ -2,5 +2,5 @@
     "name": "Test Token DXR",
     "symbol": "DXR",
     "description": "Test Coin Description for DXR",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

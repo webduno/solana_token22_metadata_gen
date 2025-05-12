@@ -2,5 +2,5 @@
     "name": "Test Token PJA",
     "symbol": "PJA",
     "description": "Test Coin Description for PJA",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

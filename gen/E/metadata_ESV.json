@@ -2,5 +2,5 @@
     "name": "Test Token ESV",
     "symbol": "ESV",
     "description": "Test Coin Description for ESV",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

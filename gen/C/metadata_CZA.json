@@ -2,5 +2,5 @@
     "name": "Test Token CZA",
     "symbol": "CZA",
     "description": "Test Coin Description for CZA",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

@@ -2,5 +2,5 @@
     "name": "Test Token CLS",
     "symbol": "CLS",
     "description": "Test Coin Description for CLS",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

@@ -2,5 +2,5 @@
     "name": "Test Token ILB",
     "symbol": "ILB",
     "description": "Test Coin Description for ILB",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

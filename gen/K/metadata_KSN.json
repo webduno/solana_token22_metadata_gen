@@ -2,5 +2,5 @@
     "name": "Test Token KSN",
     "symbol": "KSN",
     "description": "Test Coin Description for KSN",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

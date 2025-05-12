@@ -2,5 +2,5 @@
     "name": "Test Token FFE",
     "symbol": "FFE",
     "description": "Test Coin Description for FFE",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

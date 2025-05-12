@@ -2,5 +2,5 @@
     "name": "Test Token ZZL",
     "symbol": "ZZL",
     "description": "Test Coin Description for ZZL",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

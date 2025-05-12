@@ -28,6 +28,7 @@ function updateMetadataFiles(options = {}) {
         symbol = null,
         description = null
     } = options;
+    console.log("filePath", );
 
     // Find all JSON files in the gen directory
     const jsonFiles = findJsonFiles('./gen');
@@ -60,10 +61,9 @@ function updateMetadataFiles(options = {}) {
 // node batchUpdate.js --imageUrl https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png
 
 // To update multiple fields:
-// updateMetadataFiles({
-//     imageUrl: 'https://new-image-url.com/image.png',
-//     description: 'New description'
-// });
+updateMetadataFiles({
+    imageUrl: 'https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true',
+});
 
 module.exports = {
     updateMetadataFiles,

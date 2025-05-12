@@ -2,5 +2,5 @@
     "name": "Test Token DGB",
     "symbol": "DGB",
     "description": "Test Coin Description for DGB",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

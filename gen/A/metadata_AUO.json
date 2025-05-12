@@ -2,5 +2,5 @@
     "name": "Test Token AUO",
     "symbol": "AUO",
     "description": "Test Coin Description for AUO",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

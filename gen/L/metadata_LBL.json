@@ -2,5 +2,5 @@
     "name": "Test Token LBL",
     "symbol": "LBL",
     "description": "Test Coin Description for LBL",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

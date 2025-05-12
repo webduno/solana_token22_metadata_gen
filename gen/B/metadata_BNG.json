@@ -2,5 +2,5 @@
     "name": "Test Token BNG",
     "symbol": "BNG",
     "description": "Test Coin Description for BNG",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

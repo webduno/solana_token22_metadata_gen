@@ -2,5 +2,5 @@
     "name": "Test Token ZOZ",
     "symbol": "ZOZ",
     "description": "Test Coin Description for ZOZ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

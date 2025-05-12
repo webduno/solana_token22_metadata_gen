@@ -2,5 +2,5 @@
     "name": "Test Token NGM",
     "symbol": "NGM",
     "description": "Test Coin Description for NGM",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

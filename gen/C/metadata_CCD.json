@@ -2,5 +2,5 @@
     "name": "Test Token CCD",
     "symbol": "CCD",
     "description": "Test Coin Description for CCD",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }

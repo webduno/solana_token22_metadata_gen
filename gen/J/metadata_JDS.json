@@ -2,5 +2,5 @@
     "name": "Test Token JDS",
     "symbol": "JDS",
     "description": "Test Coin Description for JDS",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
 }
