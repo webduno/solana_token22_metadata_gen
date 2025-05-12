@@ -1,6 +1,6 @@
 {
-    "name": "Test Token UBJ",
+    "name": "UBJ Coin",
     "symbol": "UBJ",
-    "description": "Test Coin Description for UBJ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "UBJ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

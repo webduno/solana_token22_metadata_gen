@@ -1,6 +1,6 @@
 {
-    "name": "Test Token QAN",
+    "name": "QAN Coin",
     "symbol": "QAN",
-    "description": "Test Coin Description for QAN",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "QAN is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

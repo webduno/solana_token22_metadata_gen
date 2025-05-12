@@ -1,6 +1,6 @@
 {
-    "name": "Test Token JVL",
+    "name": "JVL Coin",
     "symbol": "JVL",
-    "description": "Test Coin Description for JVL",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "JVL is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

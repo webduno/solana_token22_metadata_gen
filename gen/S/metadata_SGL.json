@@ -1,6 +1,6 @@
 {
-    "name": "Test Token SGL",
+    "name": "SGL Coin",
     "symbol": "SGL",
-    "description": "Test Coin Description for SGL",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "SGL is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

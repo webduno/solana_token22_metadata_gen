@@ -1,6 +1,6 @@
 {
-    "name": "Test Token KPP",
+    "name": "KPP Coin",
     "symbol": "KPP",
-    "description": "Test Coin Description for KPP",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "KPP is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

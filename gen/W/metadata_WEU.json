@@ -1,6 +1,6 @@
 {
-    "name": "Test Token WEU",
+    "name": "WEU Coin",
     "symbol": "WEU",
-    "description": "Test Coin Description for WEU",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "WEU is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

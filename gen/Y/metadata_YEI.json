@@ -1,6 +1,6 @@
 {
-    "name": "Test Token YEI",
+    "name": "YEI Coin",
     "symbol": "YEI",
-    "description": "Test Coin Description for YEI",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "YEI is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

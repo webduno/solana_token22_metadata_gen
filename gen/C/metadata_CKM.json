@@ -1,6 +1,6 @@
 {
-    "name": "Test Token CKM",
+    "name": "CKM Coin",
     "symbol": "CKM",
-    "description": "Test Coin Description for CKM",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "CKM is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

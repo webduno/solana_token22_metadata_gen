@@ -1,6 +1,6 @@
 {
-    "name": "Test Token BDP",
+    "name": "BDP Coin",
     "symbol": "BDP",
-    "description": "Test Coin Description for BDP",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "BDP is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

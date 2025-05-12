@@ -1,6 +1,6 @@
 {
-    "name": "Test Token AGP",
+    "name": "AGP Coin",
     "symbol": "AGP",
-    "description": "Test Coin Description for AGP",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "AGP is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

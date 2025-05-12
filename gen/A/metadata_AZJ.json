@@ -1,6 +1,6 @@
 {
-    "name": "Test Token AZJ",
+    "name": "AZJ Coin",
     "symbol": "AZJ",
-    "description": "Test Coin Description for AZJ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "AZJ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token NDD",
+    "name": "NDD Coin",
     "symbol": "NDD",
-    "description": "Test Coin Description for NDD",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "NDD is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

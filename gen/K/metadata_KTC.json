@@ -1,6 +1,6 @@
 {
-    "name": "Test Token KTC",
+    "name": "KTC Coin",
     "symbol": "KTC",
-    "description": "Test Coin Description for KTC",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "KTC is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

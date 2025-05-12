@@ -1,6 +1,6 @@
 {
-    "name": "Test Token FEP",
+    "name": "FEP Coin",
     "symbol": "FEP",
-    "description": "Test Coin Description for FEP",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "FEP is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

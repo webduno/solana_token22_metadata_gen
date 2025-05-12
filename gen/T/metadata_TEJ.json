@@ -1,6 +1,6 @@
 {
-    "name": "Test Token TEJ",
+    "name": "TEJ Coin",
     "symbol": "TEJ",
-    "description": "Test Coin Description for TEJ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "TEJ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

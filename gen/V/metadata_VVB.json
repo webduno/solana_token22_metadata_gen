@@ -1,6 +1,6 @@
 {
-    "name": "Test Token VVB",
+    "name": "VVB Coin",
     "symbol": "VVB",
-    "description": "Test Coin Description for VVB",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "VVB is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

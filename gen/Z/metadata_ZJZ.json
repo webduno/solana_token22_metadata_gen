@@ -1,6 +1,6 @@
 {
-    "name": "Test Token ZJZ",
+    "name": "ZJZ Coin",
     "symbol": "ZJZ",
-    "description": "Test Coin Description for ZJZ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "ZJZ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

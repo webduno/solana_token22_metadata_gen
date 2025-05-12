@@ -1,6 +1,6 @@
 {
-    "name": "Test Token FEA",
+    "name": "FEA Coin",
     "symbol": "FEA",
-    "description": "Test Coin Description for FEA",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "FEA is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token ZIT",
+    "name": "ZIT Coin",
     "symbol": "ZIT",
-    "description": "Test Coin Description for ZIT",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "ZIT is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token RAT",
+    "name": "RAT Coin",
     "symbol": "RAT",
-    "description": "Test Coin Description for RAT",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "RAT is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token GGQ",
+    "name": "GGQ Coin",
     "symbol": "GGQ",
-    "description": "Test Coin Description for GGQ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "GGQ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

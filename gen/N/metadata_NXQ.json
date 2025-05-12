@@ -1,6 +1,6 @@
 {
-    "name": "Test Token NXQ",
+    "name": "NXQ Coin",
     "symbol": "NXQ",
-    "description": "Test Coin Description for NXQ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "NXQ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

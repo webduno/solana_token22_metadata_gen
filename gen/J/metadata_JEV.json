@@ -1,6 +1,6 @@
 {
-    "name": "Test Token JEV",
+    "name": "JEV Coin",
     "symbol": "JEV",
-    "description": "Test Coin Description for JEV",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "JEV is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

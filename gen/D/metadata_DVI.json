@@ -1,6 +1,6 @@
 {
-    "name": "Test Token DVI",
+    "name": "DVI Coin",
     "symbol": "DVI",
-    "description": "Test Coin Description for DVI",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "DVI is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

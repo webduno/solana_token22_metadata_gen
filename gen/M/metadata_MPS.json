@@ -1,6 +1,6 @@
 {
-    "name": "Test Token MPS",
+    "name": "MPS Coin",
     "symbol": "MPS",
-    "description": "Test Coin Description for MPS",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "MPS is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

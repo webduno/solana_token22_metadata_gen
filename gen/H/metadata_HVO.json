@@ -1,6 +1,6 @@
 {
-    "name": "Test Token HVO",
+    "name": "HVO Coin",
     "symbol": "HVO",
-    "description": "Test Coin Description for HVO",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "HVO is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

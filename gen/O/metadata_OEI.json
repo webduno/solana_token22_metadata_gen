@@ -1,6 +1,6 @@
 {
-    "name": "Test Token OEI",
+    "name": "OEI Coin",
     "symbol": "OEI",
-    "description": "Test Coin Description for OEI",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "OEI is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

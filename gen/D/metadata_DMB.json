@@ -1,6 +1,6 @@
 {
-    "name": "Test Token DMB",
+    "name": "DMB Coin",
     "symbol": "DMB",
-    "description": "Test Coin Description for DMB",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "DMB is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

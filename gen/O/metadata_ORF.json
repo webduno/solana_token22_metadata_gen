@@ -1,6 +1,6 @@
 {
-    "name": "Test Token ORF",
+    "name": "ORF Coin",
     "symbol": "ORF",
-    "description": "Test Coin Description for ORF",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "ORF is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

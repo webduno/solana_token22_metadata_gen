@@ -1,6 +1,6 @@
 {
-    "name": "Test Token NXZ",
+    "name": "NXZ Coin",
     "symbol": "NXZ",
-    "description": "Test Coin Description for NXZ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "NXZ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

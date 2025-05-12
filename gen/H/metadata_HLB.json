@@ -1,6 +1,6 @@
 {
-    "name": "Test Token HLB",
+    "name": "HLB Coin",
     "symbol": "HLB",
-    "description": "Test Coin Description for HLB",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "HLB is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

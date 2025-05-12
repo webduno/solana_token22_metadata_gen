@@ -1,6 +1,6 @@
 {
-    "name": "Test Token QXE",
+    "name": "QXE Coin",
     "symbol": "QXE",
-    "description": "Test Coin Description for QXE",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "QXE is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

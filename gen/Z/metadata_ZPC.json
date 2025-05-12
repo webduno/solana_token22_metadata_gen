@@ -1,6 +1,6 @@
 {
-    "name": "Test Token ZPC",
+    "name": "ZPC Coin",
     "symbol": "ZPC",
-    "description": "Test Coin Description for ZPC",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "ZPC is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

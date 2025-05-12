@@ -1,6 +1,6 @@
 {
-    "name": "Test Token YZW",
+    "name": "YZW Coin",
     "symbol": "YZW",
-    "description": "Test Coin Description for YZW",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "YZW is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token CQF",
+    "name": "CQF Coin",
     "symbol": "CQF",
-    "description": "Test Coin Description for CQF",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "CQF is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token NTX",
+    "name": "NTX Coin",
     "symbol": "NTX",
-    "description": "Test Coin Description for NTX",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "NTX is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

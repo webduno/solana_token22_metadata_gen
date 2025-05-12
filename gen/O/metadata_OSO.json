@@ -1,6 +1,6 @@
 {
-    "name": "Test Token OSO",
+    "name": "OSO Coin",
     "symbol": "OSO",
-    "description": "Test Coin Description for OSO",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "OSO is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token URT",
+    "name": "URT Coin",
     "symbol": "URT",
-    "description": "Test Coin Description for URT",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "URT is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

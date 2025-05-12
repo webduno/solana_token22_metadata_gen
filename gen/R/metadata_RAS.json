@@ -1,6 +1,6 @@
 {
-    "name": "Test Token RAS",
+    "name": "RAS Coin",
     "symbol": "RAS",
-    "description": "Test Coin Description for RAS",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "RAS is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

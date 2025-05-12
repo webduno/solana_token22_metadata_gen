@@ -1,6 +1,6 @@
 {
-    "name": "Test Token PDY",
+    "name": "PDY Coin",
     "symbol": "PDY",
-    "description": "Test Coin Description for PDY",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "PDY is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

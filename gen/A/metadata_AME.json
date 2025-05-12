@@ -1,6 +1,6 @@
 {
-    "name": "Test Token AME",
+    "name": "AME Coin",
     "symbol": "AME",
-    "description": "Test Coin Description for AME",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "AME is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

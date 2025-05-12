@@ -1,6 +1,6 @@
 {
-    "name": "Test Token PPZ",
+    "name": "PPZ Coin",
     "symbol": "PPZ",
-    "description": "Test Coin Description for PPZ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "PPZ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

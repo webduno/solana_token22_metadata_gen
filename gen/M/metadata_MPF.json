@@ -1,6 +1,6 @@
 {
-    "name": "Test Token MPF",
+    "name": "MPF Coin",
     "symbol": "MPF",
-    "description": "Test Coin Description for MPF",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "MPF is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

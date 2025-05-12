@@ -1,6 +1,6 @@
 {
-    "name": "Test Token JEF",
+    "name": "JEF Coin",
     "symbol": "JEF",
-    "description": "Test Coin Description for JEF",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "JEF is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

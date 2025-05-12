@@ -1,6 +1,6 @@
 {
-    "name": "Test Token NYI",
+    "name": "NYI Coin",
     "symbol": "NYI",
-    "description": "Test Coin Description for NYI",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "NYI is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token BJE",
+    "name": "BJE Coin",
     "symbol": "BJE",
-    "description": "Test Coin Description for BJE",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "BJE is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

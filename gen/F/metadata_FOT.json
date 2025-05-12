@@ -1,6 +1,6 @@
 {
-    "name": "Test Token FOT",
+    "name": "FOT Coin",
     "symbol": "FOT",
-    "description": "Test Coin Description for FOT",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "FOT is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

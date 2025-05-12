@@ -1,6 +1,6 @@
 {
-    "name": "Test Token IKP",
+    "name": "IKP Coin",
     "symbol": "IKP",
-    "description": "Test Coin Description for IKP",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "IKP is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token ECJ",
+    "name": "ECJ Coin",
     "symbol": "ECJ",
-    "description": "Test Coin Description for ECJ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "ECJ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

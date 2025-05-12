@@ -1,6 +1,6 @@
 {
-    "name": "Test Token BBK",
+    "name": "BBK Coin",
     "symbol": "BBK",
-    "description": "Test Coin Description for BBK",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "BBK is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

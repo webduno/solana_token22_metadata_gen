@@ -1,6 +1,6 @@
 {
-    "name": "Test Token QIM",
+    "name": "QIM Coin",
     "symbol": "QIM",
-    "description": "Test Coin Description for QIM",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "QIM is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

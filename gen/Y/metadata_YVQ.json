@@ -1,6 +1,6 @@
 {
-    "name": "Test Token YVQ",
+    "name": "YVQ Coin",
     "symbol": "YVQ",
-    "description": "Test Coin Description for YVQ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "YVQ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

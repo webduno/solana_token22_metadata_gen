@@ -1,6 +1,6 @@
 {
-    "name": "Test Token OVQ",
+    "name": "OVQ Coin",
     "symbol": "OVQ",
-    "description": "Test Coin Description for OVQ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "OVQ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

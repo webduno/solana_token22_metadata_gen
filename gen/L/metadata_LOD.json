@@ -1,6 +1,6 @@
 {
-    "name": "Test Token LOD",
+    "name": "LOD Coin",
     "symbol": "LOD",
-    "description": "Test Coin Description for LOD",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "LOD is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

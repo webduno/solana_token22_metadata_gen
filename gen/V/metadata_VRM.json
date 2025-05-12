@@ -1,6 +1,6 @@
 {
-    "name": "Test Token VRM",
+    "name": "VRM Coin",
     "symbol": "VRM",
-    "description": "Test Coin Description for VRM",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "VRM is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token LDF",
+    "name": "LDF Coin",
     "symbol": "LDF",
-    "description": "Test Coin Description for LDF",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "LDF is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

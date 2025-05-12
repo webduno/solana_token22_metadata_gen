@@ -1,6 +1,6 @@
 {
-    "name": "Test Token DVT",
+    "name": "DVT Coin",
     "symbol": "DVT",
-    "description": "Test Coin Description for DVT",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "DVT is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

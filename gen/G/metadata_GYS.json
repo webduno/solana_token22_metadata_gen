@@ -1,6 +1,6 @@
 {
-    "name": "Test Token GYS",
+    "name": "GYS Coin",
     "symbol": "GYS",
-    "description": "Test Coin Description for GYS",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "GYS is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

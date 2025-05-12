@@ -1,6 +1,6 @@
 {
-    "name": "Test Token XKZ",
+    "name": "XKZ Coin",
     "symbol": "XKZ",
-    "description": "Test Coin Description for XKZ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "XKZ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

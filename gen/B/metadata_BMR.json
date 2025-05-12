@@ -1,6 +1,6 @@
 {
-    "name": "Test Token BMR",
+    "name": "BMR Coin",
     "symbol": "BMR",
-    "description": "Test Coin Description for BMR",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "BMR is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

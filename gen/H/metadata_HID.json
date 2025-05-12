@@ -1,6 +1,6 @@
 {
-    "name": "Test Token HID",
+    "name": "HID Coin",
     "symbol": "HID",
-    "description": "Test Coin Description for HID",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "HID is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

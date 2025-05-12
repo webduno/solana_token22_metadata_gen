@@ -1,6 +1,6 @@
 {
-    "name": "Test Token LRB",
+    "name": "LRB Coin",
     "symbol": "LRB",
-    "description": "Test Coin Description for LRB",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "LRB is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token BDA",
+    "name": "BDA Coin",
     "symbol": "BDA",
-    "description": "Test Coin Description for BDA",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "BDA is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token IUO",
+    "name": "IUO Coin",
     "symbol": "IUO",
-    "description": "Test Coin Description for IUO",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "IUO is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

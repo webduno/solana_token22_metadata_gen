@@ -1,6 +1,6 @@
 {
-    "name": "Test Token HML",
+    "name": "HML Coin",
     "symbol": "HML",
-    "description": "Test Coin Description for HML",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "HML is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

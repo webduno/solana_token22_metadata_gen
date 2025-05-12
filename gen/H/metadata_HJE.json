@@ -1,6 +1,6 @@
 {
-    "name": "Test Token HJE",
+    "name": "HJE Coin",
     "symbol": "HJE",
-    "description": "Test Coin Description for HJE",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "HJE is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

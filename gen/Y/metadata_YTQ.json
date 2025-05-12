@@ -1,6 +1,6 @@
 {
-    "name": "Test Token YTQ",
+    "name": "YTQ Coin",
     "symbol": "YTQ",
-    "description": "Test Coin Description for YTQ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "YTQ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

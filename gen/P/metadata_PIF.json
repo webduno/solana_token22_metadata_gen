@@ -1,6 +1,6 @@
 {
-    "name": "Test Token PIF",
+    "name": "PIF Coin",
     "symbol": "PIF",
-    "description": "Test Coin Description for PIF",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "PIF is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

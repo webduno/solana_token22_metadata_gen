@@ -1,6 +1,6 @@
 {
-    "name": "Test Token TYI",
+    "name": "TYI Coin",
     "symbol": "TYI",
-    "description": "Test Coin Description for TYI",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "TYI is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

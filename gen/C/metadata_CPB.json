@@ -1,6 +1,6 @@
 {
-    "name": "Test Token CPB",
+    "name": "CPB Coin",
     "symbol": "CPB",
-    "description": "Test Coin Description for CPB",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "CPB is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

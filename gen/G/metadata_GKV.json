@@ -1,6 +1,6 @@
 {
-    "name": "Test Token GKV",
+    "name": "GKV Coin",
     "symbol": "GKV",
-    "description": "Test Coin Description for GKV",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "GKV is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

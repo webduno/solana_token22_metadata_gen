@@ -1,6 +1,6 @@
 {
-    "name": "Test Token EFK",
+    "name": "EFK Coin",
     "symbol": "EFK",
-    "description": "Test Coin Description for EFK",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "EFK is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

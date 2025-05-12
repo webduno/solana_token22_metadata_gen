@@ -1,6 +1,6 @@
 {
-    "name": "Test Token FPZ",
+    "name": "FPZ Coin",
     "symbol": "FPZ",
-    "description": "Test Coin Description for FPZ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "FPZ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

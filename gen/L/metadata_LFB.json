@@ -1,6 +1,6 @@
 {
-    "name": "Test Token LFB",
+    "name": "LFB Coin",
     "symbol": "LFB",
-    "description": "Test Coin Description for LFB",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "LFB is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

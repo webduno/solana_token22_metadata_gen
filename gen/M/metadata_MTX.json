@@ -1,6 +1,6 @@
 {
-    "name": "Test Token MTX",
+    "name": "MTX Coin",
     "symbol": "MTX",
-    "description": "Test Coin Description for MTX",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "MTX is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

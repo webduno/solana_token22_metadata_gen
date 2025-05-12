@@ -1,6 +1,6 @@
 {
-    "name": "Test Token JGM",
+    "name": "JGM Coin",
     "symbol": "JGM",
-    "description": "Test Coin Description for JGM",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "JGM is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

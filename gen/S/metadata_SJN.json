@@ -1,6 +1,6 @@
 {
-    "name": "Test Token SJN",
+    "name": "SJN Coin",
     "symbol": "SJN",
-    "description": "Test Coin Description for SJN",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "SJN is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token GTB",
+    "name": "GTB Coin",
     "symbol": "GTB",
-    "description": "Test Coin Description for GTB",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "GTB is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

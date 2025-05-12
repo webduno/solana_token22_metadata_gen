@@ -1,6 +1,6 @@
 {
-    "name": "Test Token PCX",
+    "name": "PCX Coin",
     "symbol": "PCX",
-    "description": "Test Coin Description for PCX",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "PCX is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

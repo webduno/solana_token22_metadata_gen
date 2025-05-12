@@ -1,6 +1,6 @@
 {
-    "name": "Test Token JZZ",
+    "name": "JZZ Coin",
     "symbol": "JZZ",
-    "description": "Test Coin Description for JZZ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "JZZ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

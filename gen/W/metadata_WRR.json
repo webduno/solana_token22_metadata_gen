@@ -1,6 +1,6 @@
 {
-    "name": "Test Token WRR",
+    "name": "WRR Coin",
     "symbol": "WRR",
-    "description": "Test Coin Description for WRR",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "WRR is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

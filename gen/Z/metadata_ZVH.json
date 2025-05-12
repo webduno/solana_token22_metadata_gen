@@ -1,6 +1,6 @@
 {
-    "name": "Test Token ZVH",
+    "name": "ZVH Coin",
     "symbol": "ZVH",
-    "description": "Test Coin Description for ZVH",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "ZVH is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

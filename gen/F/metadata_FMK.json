@@ -1,6 +1,6 @@
 {
-    "name": "Test Token FMK",
+    "name": "FMK Coin",
     "symbol": "FMK",
-    "description": "Test Coin Description for FMK",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "FMK is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

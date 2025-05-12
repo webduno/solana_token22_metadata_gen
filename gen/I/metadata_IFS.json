@@ -1,6 +1,6 @@
 {
-    "name": "Test Token IFS",
+    "name": "IFS Coin",
     "symbol": "IFS",
-    "description": "Test Coin Description for IFS",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "IFS is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

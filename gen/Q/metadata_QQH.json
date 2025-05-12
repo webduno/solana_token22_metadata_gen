@@ -1,6 +1,6 @@
 {
-    "name": "Test Token QQH",
+    "name": "QQH Coin",
     "symbol": "QQH",
-    "description": "Test Coin Description for QQH",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "QQH is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

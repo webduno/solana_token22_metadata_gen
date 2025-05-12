@@ -1,6 +1,6 @@
 {
-    "name": "Test Token KCN",
+    "name": "KCN Coin",
     "symbol": "KCN",
-    "description": "Test Coin Description for KCN",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "KCN is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token NKO",
+    "name": "NKO Coin",
     "symbol": "NKO",
-    "description": "Test Coin Description for NKO",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "NKO is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

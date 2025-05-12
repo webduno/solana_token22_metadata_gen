@@ -1,6 +1,6 @@
 {
-    "name": "Test Token SHY",
+    "name": "SHY Coin",
     "symbol": "SHY",
-    "description": "Test Coin Description for SHY",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "SHY is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

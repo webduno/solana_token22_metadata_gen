@@ -1,6 +1,6 @@
 {
-    "name": "Test Token EVI",
+    "name": "EVI Coin",
     "symbol": "EVI",
-    "description": "Test Coin Description for EVI",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "EVI is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

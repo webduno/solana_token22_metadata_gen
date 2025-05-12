@@ -1,6 +1,6 @@
 {
-    "name": "Test Token EQT",
+    "name": "EQT Coin",
     "symbol": "EQT",
-    "description": "Test Coin Description for EQT",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "EQT is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

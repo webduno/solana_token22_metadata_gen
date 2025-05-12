@@ -1,6 +1,6 @@
 {
-    "name": "Test Token KXV",
+    "name": "KXV Coin",
     "symbol": "KXV",
-    "description": "Test Coin Description for KXV",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "KXV is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token BGM",
+    "name": "BGM Coin",
     "symbol": "BGM",
-    "description": "Test Coin Description for BGM",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "BGM is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

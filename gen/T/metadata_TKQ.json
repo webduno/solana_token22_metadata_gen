@@ -1,6 +1,6 @@
 {
-    "name": "Test Token TKQ",
+    "name": "TKQ Coin",
     "symbol": "TKQ",
-    "description": "Test Coin Description for TKQ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "TKQ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

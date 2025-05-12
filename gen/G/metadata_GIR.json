@@ -1,6 +1,6 @@
 {
-    "name": "Test Token GIR",
+    "name": "GIR Coin",
     "symbol": "GIR",
-    "description": "Test Coin Description for GIR",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "GIR is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

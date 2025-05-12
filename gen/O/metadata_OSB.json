@@ -1,6 +1,6 @@
 {
-    "name": "Test Token OSB",
+    "name": "OSB Coin",
     "symbol": "OSB",
-    "description": "Test Coin Description for OSB",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "OSB is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token OAP",
+    "name": "OAP Coin",
     "symbol": "OAP",
-    "description": "Test Coin Description for OAP",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "OAP is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

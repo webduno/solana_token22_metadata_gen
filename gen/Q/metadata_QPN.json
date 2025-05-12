@@ -1,6 +1,6 @@
 {
-    "name": "Test Token QPN",
+    "name": "QPN Coin",
     "symbol": "QPN",
-    "description": "Test Coin Description for QPN",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "QPN is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

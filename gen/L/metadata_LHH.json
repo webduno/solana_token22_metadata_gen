@@ -1,6 +1,6 @@
 {
-    "name": "Test Token LHH",
+    "name": "LHH Coin",
     "symbol": "LHH",
-    "description": "Test Coin Description for LHH",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "LHH is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

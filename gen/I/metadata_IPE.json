@@ -1,6 +1,6 @@
 {
-    "name": "Test Token IPE",
+    "name": "IPE Coin",
     "symbol": "IPE",
-    "description": "Test Coin Description for IPE",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "IPE is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

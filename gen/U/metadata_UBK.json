@@ -1,6 +1,6 @@
 {
-    "name": "Test Token UBK",
+    "name": "UBK Coin",
     "symbol": "UBK",
-    "description": "Test Coin Description for UBK",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "UBK is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

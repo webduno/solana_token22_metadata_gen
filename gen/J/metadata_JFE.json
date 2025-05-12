@@ -1,6 +1,6 @@
 {
-    "name": "Test Token JFE",
+    "name": "JFE Coin",
     "symbol": "JFE",
-    "description": "Test Coin Description for JFE",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "JFE is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

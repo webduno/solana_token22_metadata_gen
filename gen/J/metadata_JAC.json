@@ -1,6 +1,6 @@
 {
-    "name": "Test Token JAC",
+    "name": "JAC Coin",
     "symbol": "JAC",
-    "description": "Test Coin Description for JAC",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "JAC is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

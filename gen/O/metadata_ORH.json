@@ -1,6 +1,6 @@
 {
-    "name": "Test Token ORH",
+    "name": "ORH Coin",
     "symbol": "ORH",
-    "description": "Test Coin Description for ORH",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "ORH is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

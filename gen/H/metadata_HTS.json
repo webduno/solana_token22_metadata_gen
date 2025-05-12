@@ -1,6 +1,6 @@
 {
-    "name": "Test Token HTS",
+    "name": "HTS Coin",
     "symbol": "HTS",
-    "description": "Test Coin Description for HTS",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "HTS is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

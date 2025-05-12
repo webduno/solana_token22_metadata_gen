@@ -1,6 +1,6 @@
 {
-    "name": "Test Token EZT",
+    "name": "EZT Coin",
     "symbol": "EZT",
-    "description": "Test Coin Description for EZT",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "EZT is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

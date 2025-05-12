@@ -1,6 +1,6 @@
 {
-    "name": "Test Token CPW",
+    "name": "CPW Coin",
     "symbol": "CPW",
-    "description": "Test Coin Description for CPW",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "CPW is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

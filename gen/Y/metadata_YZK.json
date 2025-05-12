@@ -1,6 +1,6 @@
 {
-    "name": "Test Token YZK",
+    "name": "YZK Coin",
     "symbol": "YZK",
-    "description": "Test Coin Description for YZK",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "YZK is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

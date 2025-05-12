@@ -1,6 +1,6 @@
 {
-    "name": "Test Token EHD",
+    "name": "EHD Coin",
     "symbol": "EHD",
-    "description": "Test Coin Description for EHD",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "EHD is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

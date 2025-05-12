@@ -1,6 +1,6 @@
 {
-    "name": "Test Token ASF",
+    "name": "ASF Coin",
     "symbol": "ASF",
-    "description": "Test Coin Description for ASF",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "ASF is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

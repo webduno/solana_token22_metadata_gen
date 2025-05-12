@@ -1,6 +1,6 @@
 {
-    "name": "Test Token HDI",
+    "name": "HDI Coin",
     "symbol": "HDI",
-    "description": "Test Coin Description for HDI",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "HDI is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

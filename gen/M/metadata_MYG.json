@@ -1,6 +1,6 @@
 {
-    "name": "Test Token MYG",
+    "name": "MYG Coin",
     "symbol": "MYG",
-    "description": "Test Coin Description for MYG",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "MYG is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

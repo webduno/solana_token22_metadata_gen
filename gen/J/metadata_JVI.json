@@ -1,6 +1,6 @@
 {
-    "name": "Test Token JVI",
+    "name": "JVI Coin",
     "symbol": "JVI",
-    "description": "Test Coin Description for JVI",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "JVI is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

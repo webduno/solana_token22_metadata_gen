@@ -1,6 +1,6 @@
 {
-    "name": "Test Token DOS",
+    "name": "DOS Coin",
     "symbol": "DOS",
-    "description": "Test Coin Description for DOS",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "DOS is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

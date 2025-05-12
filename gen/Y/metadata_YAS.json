@@ -1,6 +1,6 @@
 {
-    "name": "Test Token YAS",
+    "name": "YAS Coin",
     "symbol": "YAS",
-    "description": "Test Coin Description for YAS",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "YAS is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token YOV",
+    "name": "YOV Coin",
     "symbol": "YOV",
-    "description": "Test Coin Description for YOV",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "YOV is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

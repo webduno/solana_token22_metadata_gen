@@ -1,6 +1,6 @@
 {
-    "name": "Test Token PUJ",
+    "name": "PUJ Coin",
     "symbol": "PUJ",
-    "description": "Test Coin Description for PUJ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "PUJ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

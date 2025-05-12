@@ -1,6 +1,6 @@
 {
-    "name": "Test Token BEK",
+    "name": "BEK Coin",
     "symbol": "BEK",
-    "description": "Test Coin Description for BEK",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "BEK is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

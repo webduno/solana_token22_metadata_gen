@@ -1,6 +1,6 @@
 {
-    "name": "Test Token YQY",
+    "name": "YQY Coin",
     "symbol": "YQY",
-    "description": "Test Coin Description for YQY",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "YQY is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

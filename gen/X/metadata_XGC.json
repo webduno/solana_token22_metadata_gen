@@ -1,6 +1,6 @@
 {
-    "name": "Test Token XGC",
+    "name": "XGC Coin",
     "symbol": "XGC",
-    "description": "Test Coin Description for XGC",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "XGC is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token JNS",
+    "name": "JNS Coin",
     "symbol": "JNS",
-    "description": "Test Coin Description for JNS",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "JNS is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

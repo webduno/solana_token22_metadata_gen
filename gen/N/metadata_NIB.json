@@ -1,6 +1,6 @@
 {
-    "name": "Test Token NIB",
+    "name": "NIB Coin",
     "symbol": "NIB",
-    "description": "Test Coin Description for NIB",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "NIB is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

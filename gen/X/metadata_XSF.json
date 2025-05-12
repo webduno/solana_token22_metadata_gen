@@ -1,6 +1,6 @@
 {
-    "name": "Test Token XSF",
+    "name": "XSF Coin",
     "symbol": "XSF",
-    "description": "Test Coin Description for XSF",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "XSF is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

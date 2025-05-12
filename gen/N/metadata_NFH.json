@@ -1,6 +1,6 @@
 {
-    "name": "Test Token NFH",
+    "name": "NFH Coin",
     "symbol": "NFH",
-    "description": "Test Coin Description for NFH",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "NFH is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

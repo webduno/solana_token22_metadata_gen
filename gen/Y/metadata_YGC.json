@@ -1,6 +1,6 @@
 {
-    "name": "Test Token YGC",
+    "name": "YGC Coin",
     "symbol": "YGC",
-    "description": "Test Coin Description for YGC",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "YGC is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token LIW",
+    "name": "LIW Coin",
     "symbol": "LIW",
-    "description": "Test Coin Description for LIW",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "LIW is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

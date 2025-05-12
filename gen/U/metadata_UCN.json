@@ -1,6 +1,6 @@
 {
-    "name": "Test Token UCN",
+    "name": "UCN Coin",
     "symbol": "UCN",
-    "description": "Test Coin Description for UCN",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "UCN is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token DPQ",
+    "name": "DPQ Coin",
     "symbol": "DPQ",
-    "description": "Test Coin Description for DPQ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "DPQ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

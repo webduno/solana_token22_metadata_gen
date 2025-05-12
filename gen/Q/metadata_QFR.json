@@ -1,6 +1,6 @@
 {
-    "name": "Test Token QFR",
+    "name": "QFR Coin",
     "symbol": "QFR",
-    "description": "Test Coin Description for QFR",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "QFR is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

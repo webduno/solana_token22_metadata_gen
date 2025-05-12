@@ -1,6 +1,6 @@
 {
-    "name": "Test Token POE",
+    "name": "POE Coin",
     "symbol": "POE",
-    "description": "Test Coin Description for POE",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "POE is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

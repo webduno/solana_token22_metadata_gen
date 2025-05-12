@@ -1,6 +1,6 @@
 {
-    "name": "Test Token NBB",
+    "name": "NBB Coin",
     "symbol": "NBB",
-    "description": "Test Coin Description for NBB",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "NBB is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

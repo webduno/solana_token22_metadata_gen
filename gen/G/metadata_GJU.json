@@ -1,6 +1,6 @@
 {
-    "name": "Test Token GJU",
+    "name": "GJU Coin",
     "symbol": "GJU",
-    "description": "Test Coin Description for GJU",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "GJU is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

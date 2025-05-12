@@ -1,6 +1,6 @@
 {
-    "name": "Test Token WVR",
+    "name": "WVR Coin",
     "symbol": "WVR",
-    "description": "Test Coin Description for WVR",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "WVR is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

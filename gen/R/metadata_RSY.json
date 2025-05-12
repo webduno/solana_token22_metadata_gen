@@ -1,6 +1,6 @@
 {
-    "name": "Test Token RSY",
+    "name": "RSY Coin",
     "symbol": "RSY",
-    "description": "Test Coin Description for RSY",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "RSY is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

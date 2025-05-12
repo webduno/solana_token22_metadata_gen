@@ -1,6 +1,6 @@
 {
-    "name": "Test Token PBA",
+    "name": "PBA Coin",
     "symbol": "PBA",
-    "description": "Test Coin Description for PBA",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "PBA is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token PHF",
+    "name": "PHF Coin",
     "symbol": "PHF",
-    "description": "Test Coin Description for PHF",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "PHF is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

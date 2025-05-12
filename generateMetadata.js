@@ -24,9 +24,9 @@ function getNextSymbol(currentSymbol) {
 // Function to generate metadata for a given symbol
 function generateMetadata(symbol) {
     return {
-        name: `Test Token ${symbol}`,
+        name: `${symbol} Coin`,
         symbol: symbol,
-        description: `Test Coin Description for ${symbol}`,
+        description: `${symbol} is a token program on the Solana blockchain, defining a common implementation for fungible tokens`,
         image: "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
     };
 }

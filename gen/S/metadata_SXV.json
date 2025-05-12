@@ -1,6 +1,6 @@
 {
-    "name": "Test Token SXV",
+    "name": "SXV Coin",
     "symbol": "SXV",
-    "description": "Test Coin Description for SXV",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "SXV is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

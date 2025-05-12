@@ -1,6 +1,6 @@
 {
-    "name": "Test Token MOW",
+    "name": "MOW Coin",
     "symbol": "MOW",
-    "description": "Test Coin Description for MOW",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "MOW is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

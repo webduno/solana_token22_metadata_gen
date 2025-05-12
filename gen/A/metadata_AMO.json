@@ -1,6 +1,6 @@
 {
-    "name": "Test Token AMO",
+    "name": "AMO Coin",
     "symbol": "AMO",
-    "description": "Test Coin Description for AMO",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "AMO is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

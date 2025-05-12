@@ -1,6 +1,6 @@
 {
-    "name": "Test Token OXM",
+    "name": "OXM Coin",
     "symbol": "OXM",
-    "description": "Test Coin Description for OXM",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "OXM is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

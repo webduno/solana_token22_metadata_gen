@@ -1,6 +1,6 @@
 {
-    "name": "Test Token VQK",
+    "name": "VQK Coin",
     "symbol": "VQK",
-    "description": "Test Coin Description for VQK",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "VQK is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

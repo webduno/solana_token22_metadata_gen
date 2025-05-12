@@ -1,6 +1,6 @@
 {
-    "name": "Test Token IND",
+    "name": "IND Coin",
     "symbol": "IND",
-    "description": "Test Coin Description for IND",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "IND is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

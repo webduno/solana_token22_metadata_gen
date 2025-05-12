@@ -1,6 +1,6 @@
 {
-    "name": "Test Token XHK",
+    "name": "XHK Coin",
     "symbol": "XHK",
-    "description": "Test Coin Description for XHK",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "XHK is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

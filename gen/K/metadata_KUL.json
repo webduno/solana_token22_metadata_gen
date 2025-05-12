@@ -1,6 +1,6 @@
 {
-    "name": "Test Token KUL",
+    "name": "KUL Coin",
     "symbol": "KUL",
-    "description": "Test Coin Description for KUL",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "KUL is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

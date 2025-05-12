@@ -1,6 +1,6 @@
 {
-    "name": "Test Token NZS",
+    "name": "NZS Coin",
     "symbol": "NZS",
-    "description": "Test Coin Description for NZS",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "NZS is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

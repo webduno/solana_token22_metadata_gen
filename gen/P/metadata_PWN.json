@@ -1,6 +1,6 @@
 {
-    "name": "Test Token PWN",
+    "name": "PWN Coin",
     "symbol": "PWN",
-    "description": "Test Coin Description for PWN",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "PWN is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

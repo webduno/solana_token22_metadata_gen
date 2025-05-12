@@ -1,6 +1,6 @@
 {
-    "name": "Test Token LEW",
+    "name": "LEW Coin",
     "symbol": "LEW",
-    "description": "Test Coin Description for LEW",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "LEW is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

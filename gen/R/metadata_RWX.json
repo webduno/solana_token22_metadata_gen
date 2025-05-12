@@ -1,6 +1,6 @@
 {
-    "name": "Test Token RWX",
+    "name": "RWX Coin",
     "symbol": "RWX",
-    "description": "Test Coin Description for RWX",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "RWX is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

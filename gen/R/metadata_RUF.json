@@ -1,6 +1,6 @@
 {
-    "name": "Test Token RUF",
+    "name": "RUF Coin",
     "symbol": "RUF",
-    "description": "Test Coin Description for RUF",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "RUF is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

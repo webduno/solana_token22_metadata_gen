@@ -1,6 +1,6 @@
 {
-    "name": "Test Token HCO",
+    "name": "HCO Coin",
     "symbol": "HCO",
-    "description": "Test Coin Description for HCO",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "HCO is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

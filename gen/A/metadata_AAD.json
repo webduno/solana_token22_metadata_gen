@@ -1,6 +1,6 @@
 {
-    "name": "Test Token AAD",
+    "name": "AAD Coin",
     "symbol": "AAD",
-    "description": "Test Coin Description for AAD",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "AAD is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Test Token YZE",
+    "name": "YZE Coin",
     "symbol": "YZE",
-    "description": "Test Coin Description for YZE",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "YZE is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

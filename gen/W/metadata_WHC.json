@@ -1,6 +1,6 @@
 {
-    "name": "Test Token WHC",
+    "name": "WHC Coin",
     "symbol": "WHC",
-    "description": "Test Coin Description for WHC",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "WHC is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

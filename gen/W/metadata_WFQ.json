@@ -1,6 +1,6 @@
 {
-    "name": "Test Token WFQ",
+    "name": "WFQ Coin",
     "symbol": "WFQ",
-    "description": "Test Coin Description for WFQ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "WFQ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

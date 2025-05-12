@@ -1,6 +1,6 @@
 {
-    "name": "Test Token QZH",
+    "name": "QZH Coin",
     "symbol": "QZH",
-    "description": "Test Coin Description for QZH",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "QZH is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

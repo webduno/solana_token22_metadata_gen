@@ -1,6 +1,6 @@
 {
-    "name": "Test Token MYQ",
+    "name": "MYQ Coin",
     "symbol": "MYQ",
-    "description": "Test Coin Description for MYQ",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "MYQ is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

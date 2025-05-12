@@ -1,6 +1,6 @@
 {
-    "name": "Test Token HJB",
+    "name": "HJB Coin",
     "symbol": "HJB",
-    "description": "Test Coin Description for HJB",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "HJB is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

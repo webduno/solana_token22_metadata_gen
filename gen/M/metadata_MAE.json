@@ -1,6 +1,6 @@
 {
-    "name": "Test Token MAE",
+    "name": "MAE Coin",
     "symbol": "MAE",
-    "description": "Test Coin Description for MAE",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "MAE is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

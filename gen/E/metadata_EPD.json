@@ -1,6 +1,6 @@
 {
-    "name": "Test Token EPD",
+    "name": "EPD Coin",
     "symbol": "EPD",
-    "description": "Test Coin Description for EPD",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "EPD is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

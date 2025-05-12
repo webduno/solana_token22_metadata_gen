@@ -1,6 +1,6 @@
 {
-    "name": "Test Token ZEF",
+    "name": "ZEF Coin",
     "symbol": "ZEF",
-    "description": "Test Coin Description for ZEF",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "ZEF is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

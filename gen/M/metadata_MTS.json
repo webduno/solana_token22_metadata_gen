@@ -1,6 +1,6 @@
 {
-    "name": "Test Token MTS",
+    "name": "MTS Coin",
     "symbol": "MTS",
-    "description": "Test Coin Description for MTS",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "MTS is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }

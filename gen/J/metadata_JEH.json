@@ -1,6 +1,6 @@
 {
-    "name": "Test Token JEH",
+    "name": "JEH Coin",
     "symbol": "JEH",
-    "description": "Test Coin Description for JEH",
-    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png?raw=true"
+    "description": "JEH is a token program on the Solana blockchain, defining a common implementation for fungible tokens",
+    "image": "https://github.com/webduno/solana_token22_metadata_gen/blob/main/image-256x256.png"
 }
